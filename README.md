@@ -2,6 +2,7 @@
 
 if ya want a ridonculous song go to this website ↙
 https://www.programiz.com/javascript/online-compiler/
+or go to repl.it and make a javascript file and yeah
 
 and then copy this code:
 
@@ -25,6 +26,6 @@ song += noun1 + ", how I wonder what you are.";
 // alert(song);
 console.log(song); // Output the song to the console
 
-and paste it in the java complier.
+and paste it in the java complier or your replit
 
 # ahhh
