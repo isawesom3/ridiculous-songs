@@ -19,12 +19,19 @@ let shape1 = "triangle";    //diamond
 let place1 = "kitchen";     //place
 
 let song = "Twinkle, twinkle, " + adjective1;
+
 song += " " + noun1 + ", ";
+
 song += "how I wonder what you are. ";
+
 song += "Up above the " + noun2 + " so ";
+
 song += adjective2;
+
 song += ", like a " + shape1 + " in the " + place1;
+
 song += ". Twinkle, twinkle, " + adjective1 + " ";
+
 song += noun1 + ", how I wonder what you are.";
 
 
