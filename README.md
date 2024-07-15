@@ -7,10 +7,15 @@ or go to repl.it and make a javascript file and yeah
 and then copy this code:
 
 let adjective1 = "bouncy"; //little
+
 let noun1 = "cow";          //star
+
 let noun2 = "pizza";        //world
+
 let adjective2 = "smelly";  //high
+
 let shape1 = "triangle";    //diamond
+
 let place1 = "kitchen";     //place
 
 let song = "Twinkle, twinkle, " + adjective1;
