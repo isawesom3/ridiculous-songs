@@ -34,8 +34,7 @@ song += ". Twinkle, twinkle, " + adjective1 + " ";
 
 song += noun1 + ", how I wonder what you are.";
 
-
-// alert(song);
+alert(song);
 console.log(song); // Output the song to the console
 
 and paste it in the java complier or your replit
